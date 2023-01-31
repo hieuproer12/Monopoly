@@ -17,7 +17,7 @@ namespace Monopoly
 
             plateau1.AjouterCase(case1);
             plateau1.AjouterCase(case2);
-
+            Console.WriteLine("jessou pipouzzzz");
             Console.WriteLine(plateau1.ToString());
             Console.ReadKey();
 
