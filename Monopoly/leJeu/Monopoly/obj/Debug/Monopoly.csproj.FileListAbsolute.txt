@@ -1,0 +1,8 @@
+C:\Users\quang\Git-debut\Monopoly\leJeu\Monopoly\bin\Debug\Monopoly.exe.config
+C:\Users\quang\Git-debut\Monopoly\leJeu\Monopoly\bin\Debug\Monopoly.exe
+C:\Users\quang\Git-debut\Monopoly\leJeu\Monopoly\bin\Debug\Monopoly.pdb
+C:\Users\quang\Git-debut\Monopoly\leJeu\Monopoly\obj\Debug\Monopoly.csproj.AssemblyReference.cache
+C:\Users\quang\Git-debut\Monopoly\leJeu\Monopoly\obj\Debug\Monopoly.csproj.SuggestedBindingRedirects.cache
+C:\Users\quang\Git-debut\Monopoly\leJeu\Monopoly\obj\Debug\Monopoly.csproj.CoreCompileInputs.cache
+C:\Users\quang\Git-debut\Monopoly\leJeu\Monopoly\obj\Debug\Monopoly.exe
+C:\Users\quang\Git-debut\Monopoly\leJeu\Monopoly\obj\Debug\Monopoly.pdb
